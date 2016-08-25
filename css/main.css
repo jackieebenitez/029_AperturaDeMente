@@ -1,0 +1,18 @@
+
+.mg{
+	margin:10% 0% 10% 0%;
+}
+blockquote{
+	padding:10% 4% 5% 4%;
+	font-family: 'Open Sans', sans-serif;
+}
+.mgbutton{
+	margin-top:12%;
+	margin-bottom: 12%;
+	padding:6% 0% 5% 0%;
+	background-color: #ddb3a9;
+	border-style:none;
+	border-radius: 2em;	
+	font-family: 'Roboto', sans-serif;
+	font-size: 150%
+}
